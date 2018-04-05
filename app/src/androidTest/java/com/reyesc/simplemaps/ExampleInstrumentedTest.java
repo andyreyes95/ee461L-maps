@@ -1,4 +1,4 @@
-package com.reyesc.mymaps;
+package com.reyesc.simplemaps;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.reyesc.mymaps", appContext.getPackageName());
+        assertEquals("com.reyesc.simplemaps", appContext.getPackageName());
     }
 }

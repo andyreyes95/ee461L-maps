@@ -1,4 +1,4 @@
-package com.reyesc.mymaps;
+package com.reyesc.simplemaps;
 
 import org.junit.Test;
 
